@@ -1,0 +1,50 @@
+.bg-foto{
+	background-image: url("../img/header.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%; 
+	color: white;
+}
+.bg-orange{
+	background-color: #e16d56;
+}
+.bg-pink{
+	background-color: #ff6a4e;
+}
+.bg-black{
+	background-color: #222222;
+}
+.font{
+	color: white;
+}
+.li-red{
+	color: red;
+	width: 8%;
+	border: solid 5px;
+}
+.li-white{
+	color: white;
+	width: 8%;
+	border: solid 5px;
+}
+.boton-1{
+	border-radius: 40%;
+	border-style: none;
+	width: 15%;
+	height: 3%;
+	padding: 2%;
+	margin: 5%;
+}
+.margen{
+	margin: 4%;
+}
+.boton-2{
+	border-radius: 40%;
+	border-style: none;
+	width: 15%;
+	height: 3%;
+	padding: 2%;
+	margin: 5%;
+	background-color: white;
+	color: black; 
+}
